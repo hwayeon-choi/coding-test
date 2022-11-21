@@ -85,3 +85,48 @@ console.log(save(budget, goal));
 const commingsoon = (obj : Object): string => {
   return ("")
 }
+
+// const arr1 = Object.entries(fixedItems);
+// const arr2 = Object.entries(arr1[0][1]);
+// const arr3 = Object.entries(arr1[1][1]);
+// const arr4 = Object.entries(arr1[2][1]);
+
+// console.log(arr1);
+// console.log(arr2);
+// console.log(arr3);
+// console.log(arr4);
+
+// console.log(arr1[0][0]);
+// console.log(arr2[0][0]);
+// console.log(arr2[0][1]);
+
+// console.log(arr1[0][0]);
+// console.log(arr2[1][0]);
+// console.log(arr2[1][1]);
+
+// console.log(arr1[1][0]);
+// console.log(arr3[0][0]);
+// console.log(arr3[0][1]);
+
+// console.log(arr1[1][0]);
+// console.log(arr3[1][0]);
+// console.log(arr3[1][1]);
+
+// console.log(arr1[2][0]);
+// console.log(arr4[0][0]);
+// console.log(arr4[0][1]);
+
+// console.log(arr1[2][0]);
+// console.log(arr4[1][0]);
+// console.log(arr4[1][1]);
+
+// const getArray = (obj: Object) => {
+//   let temp = [];
+//   const arr1 = Object.entries(fixedItems);
+
+//   for (let i = 0; i < arr1.length; i++) {
+//     for (let j = 0; j < arr1[i].length; j++) {
+//       arr1[i][j]
+//     }
+//   }
+// }
